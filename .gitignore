@@ -1,0 +1,7 @@
+# Private editing and backup artifacts
+*편집용*
+*backup*.json
+portfolio_data.json
+*.pdf
+.DS_Store
+Thumbs.db
